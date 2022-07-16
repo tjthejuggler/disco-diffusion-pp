@@ -1,0 +1,3 @@
+get todo stuff for this project that is in Pop-Diffusion
+
+put instructions to set up C RIFE next to it in the code
