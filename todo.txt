@@ -2,8 +2,18 @@ get todo stuff for this project that is in Pop-Diffusion
 
 put instructions to set up C RIFE next to it in the code
 
-with FILM interpolation why are the videos not alwyas coming out the decired length?
+a way to skip right to final video stuff but have the variables that we need to have
 
-hook up B to post on T
+NEW ORGANIZATION SYSTEM:
+  post-production stuff options:
+    1) a whole new post-production notebook
+    2) a group of cells that get copy pasted into the end of new DD versions
+        make a list of stuff that must be added in before the post-production cells
+  intertwined stuff:
+    1) guided zoom
+    2) object detection
+    3) antarctic prompts
+    4) videoframe interpolation
+    THE Fisrt 3 of these would all be great with some sort of live settings updating
 
-fix youtube description
+test keyframe extended branch functionality
