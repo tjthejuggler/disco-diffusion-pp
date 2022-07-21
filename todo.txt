@@ -18,3 +18,4 @@ NEW ORGANIZATION SYSTEM:
 
 Gists should be saved to text files
 
+add gist urls to youtube description directly from new gist text file
